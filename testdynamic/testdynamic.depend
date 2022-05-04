@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583691550 source:c:\users\johne\desktop\c++\testdynamic\main.cpp
+	<iostream>
+	"simp.h"
+
+1583691576 c:\users\johne\desktop\c++\testdynamic\include\simp.h
+	<iostream>
+	"simp.h"
+
+1583691581 source:c:\users\johne\desktop\c++\testdynamic\src\simp.cpp
+	"simp.h"
+

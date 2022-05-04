@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1571232879 source:c:\users\johne\desktop\c++\arraylist\src\list.cpp
+
+1571234041 source:c:\users\johne\desktop\c++\arraylist\src\numberlist.cpp
+	"numberlist.h"
+	<iostream>
+
+1571234764 c:\users\johne\desktop\c++\arraylist\include\numberlist.h
+
+1571234611 source:c:\users\johne\desktop\c++\arraylist\main.cpp
+	<iostream>
+	"numberlist.h"
+

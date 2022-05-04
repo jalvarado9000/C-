@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1602653075 source:c:\users\johne\desktop\c++\lab_6666666\main.cpp
+	<iostream>
+	"StudentTestScores.h"
+
+1602653248 c:\users\johne\desktop\c++\lab_6666666\include\studenttestscores.h
+	<string>
+

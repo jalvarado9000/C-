@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570936208 source:c:\users\johne\desktop\c++\matrix5\src\matrix.cpp
+	"matrix.h"
+
+1570936577 c:\users\johne\desktop\c++\matrix5\include\matrix.h
+	<iostream>
+
+1570935955 source:c:\users\johne\desktop\c++\matrix5\main.cpp
+	<iostream>
+	"matrix.h"
+

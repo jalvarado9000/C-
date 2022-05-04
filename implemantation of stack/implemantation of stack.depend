@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573350415 source:c:\users\johne\desktop\c++\implemantation of stack\main.cpp
+	<iostream>
+	"IntStack.h"
+
+1573350415 c:\users\johne\desktop\c++\implemantation of stack\include\intstack.h
+

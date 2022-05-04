@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585624094 source:c:\users\johne\desktop\c++\l_challenge\src\node.cpp
+	"node.h"
+	<iostream>
+	<string>
+
+1585624094 c:\users\johne\desktop\c++\l_challenge\include\node.h
+
+1585623330 source:c:\users\johne\desktop\c++\l_challenge\main.cpp
+	<iostream>
+	"node.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1592452207 source:c:\users\johne\desktop\c++\practicing random\main.cpp
+	<iostream>
+	<cctype>
+

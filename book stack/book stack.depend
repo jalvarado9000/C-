@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1573610959 source:c:\users\johne\desktop\c++\book stack\main.cpp
+	<iostream>
+	"intstack.h"
+
+1573610801 source:c:\users\johne\desktop\c++\book stack\src\intstack.cpp
+	"intstack.h"
+	<iostream>
+
+1573610663 c:\users\johne\desktop\c++\book stack\include\intstack.h
+

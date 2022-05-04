@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1585362230 source:c:\users\johne\desktop\c++\14.2\src\pair.cpp
+	<iostream>
+	<cstdlib>
+	<utility>
+	<tuple>
+	"pair.h"
+
+1585362230 c:\users\johne\desktop\c++\14.2\include\pair.h
+
+1585362230 source:c:\users\johne\desktop\c++\14.2\main.cpp
+	<iostream>
+	<cstdlib>
+	<utility>
+	<tuple>
+	"pair.h"
+

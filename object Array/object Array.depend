@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570636997 source:c:\users\johne\desktop\c++\object array\main.cpp
+	<iostream>
+	"Comp315Array.h"
+
+1570636997 c:\users\johne\desktop\c++\object array\include\comp315array.h
+	<iostream>
+
+1570636997 source:c:\users\johne\desktop\c++\object array\src\comp315array.cpp
+	"Comp315Array.h"
+

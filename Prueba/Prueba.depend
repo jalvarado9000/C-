@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603297445 source:c:\users\johne\desktop\c++\prueba\main.cpp
+	<iostream>
+	"pair.h"
+
+1603297573 c:\users\johne\desktop\c++\prueba\include\pair.h
+
+1603297535 source:c:\users\johne\desktop\c++\prueba\src\pair.cpp
+	"pair.h"
+	<iostream>
+

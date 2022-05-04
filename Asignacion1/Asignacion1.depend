@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1602629288 source:c:\users\johne\desktop\c++\asignacion1\main.cpp
+	<iostream>
+	"id.h"
+	"loan.h"
+
+1602629290 c:\users\johne\desktop\c++\asignacion1\include\id.h
+	<iostream>
+
+1602629534 c:\users\johne\desktop\c++\asignacion1\include\loan.h
+	<iostream>
+	"id.h"
+
+1602629392 source:c:\users\johne\desktop\c++\asignacion1\src\loan.cpp
+	"loan.h"
+	"id.h"
+
+1602629428 source:c:\users\johne\desktop\c++\asignacion1\src\id.cpp
+	<iostream>
+	"id.h"
+

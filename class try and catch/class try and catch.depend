@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1570986755 source:c:\users\johne\desktop\c++\class try and catch\src\triangle.cpp
+	"triangle.h"
+
+1570987531 c:\users\johne\desktop\c++\class try and catch\include\triangle.h
+
+1570988138 source:c:\users\johne\desktop\c++\class try and catch\main.cpp
+	<iostream>
+	"triangle.h"
+

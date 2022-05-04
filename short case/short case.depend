@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576336190 source:c:\users\johne\desktop\c++\short case\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+

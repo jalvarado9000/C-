@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574371804 source:c:\users\johne\desktop\c++\space as a input\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1575782163 source:c:\users\johne\downloads\p3_20_01\binarysearchtree.cpp
+	"BinarySearchTree.h"
+
+1354119102 c:\users\johne\downloads\p3_20_01\binarysearchtree.h
+	<iostream>
+	<cassert>
+	"queue.h"
+
+1354119449 c:\users\johne\downloads\p3_20_01\queue.h
+	<iostream>
+	<cstdlib>
+	<cassert>
+	"cdlist_node.h"
+
+1354119131 c:\users\johne\downloads\p3_20_01\cdlist_node.h
+	<iostream>
+	<cstdlib>
+
+1354119122 source:c:\users\johne\downloads\p3_20_01\cdlist_node.cpp
+	"cdlist_node.h"
+
+1354119150 source:c:\users\johne\downloads\p3_20_01\datamanager.cpp
+	"DataManager.h"
+
+1354119168 c:\users\johne\downloads\p3_20_01\datamanager.h
+	<iostream>
+	<string>
+	"List.h"
+	"BinarySearchTree.h"
+	"Name.h"
+	"NameList.h"
+	"Movie.h"
+
+1354119234 c:\users\johne\downloads\p3_20_01\list.h
+	<iostream>
+	<cstdlib>
+	"cdlist_node.h"
+
+1575816245 c:\users\johne\downloads\p3_20_01\name.h
+	<iostream>
+	<string>
+	<cstdlib>
+
+1354119406 c:\users\johne\downloads\p3_20_01\namelist.h
+	<iostream>
+	"Name.h"
+	"List.h"
+
+1354119309 c:\users\johne\downloads\p3_20_01\movie.h
+	<iostream>
+	<string>
+	"NameList.h"
+
+1354119244 source:c:\users\johne\downloads\p3_20_01\list_test.cpp
+	<iostream>
+	<string>
+	"List.h"
+

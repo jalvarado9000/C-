@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583689781 source:c:\users\johne\desktop\c++\dynamic array\src\book.cpp
+	"book.h"
+	<iostream>
+	<stdio.h>
+	<conio.h>
+
+1583689781 c:\users\johne\desktop\c++\dynamic array\include\book.h
+
+1583690405 source:c:\users\johne\desktop\c++\dynamic array\main.cpp
+	<iostream>
+	"book.h"
+

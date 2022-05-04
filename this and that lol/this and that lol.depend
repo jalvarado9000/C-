@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570152363 source:c:\users\johne\desktop\c++\this and that lol\main.cpp
+	<iostream>
+	"rectangle.h"
+
+1570216892 c:\users\johne\desktop\c++\this and that lol\include\rectangle.h
+	<iostream>
+
+1570152598 source:c:\users\johne\desktop\c++\this and that lol\src\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+	<cstdlib>
+

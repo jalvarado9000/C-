@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1570162923 source:c:\users\johne\desktop\c++\yaviah\main.cpp
+	<iostream>
+	<cstdlib>
+	"Matrix.h"
+
+1570163326 c:\users\johne\desktop\c++\yaviah\include\matrix.h
+	<iostream>
+	<cassert>
+	<cstdio>
+	"Object.h"
+
+1570161636 c:\users\johne\desktop\c++\yaviah\include\object.h
+
