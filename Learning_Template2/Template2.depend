@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1569943538 source:c:\users\johne\desktop\c++\template2\main.cpp
+	<iostream>
+
+1569936573 source:c:\users\johne\onedrive\desktop\c++\template2\main.cpp
+	<iostream>
+	<iomanip>
+

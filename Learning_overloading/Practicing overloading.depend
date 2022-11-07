@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1571021282 source:c:\users\johne\desktop\c++\practicing overloading\main.cpp
+	<iostream>
+	"ok.h"
+
+1571021382 c:\users\johne\desktop\c++\practicing overloading\include\ok.h
+	<iostream>
+

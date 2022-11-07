@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667774559 source:c:\users\johne\onedrive\desktop\c++\getline\main.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+

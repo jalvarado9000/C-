@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1603491758 source:c:\users\johne\desktop\c++\laab77777777777\src\pair.cpp
+
+1603538958 c:\users\johne\desktop\c++\laab77777777777\include\pair.h
+	<iostream>
+
+1603539277 source:c:\users\johne\desktop\c++\laab77777777777\main.cpp
+	<iostream>
+	"pair.h"
+
+1603532126 source:c:\users\johne\onedrive\desktop\c++\laab77777777777\main.cpp
+	<iostream>
+	"pair.h"
+
+1603531758 c:\users\johne\onedrive\desktop\c++\laab77777777777\include\pair.h
+	<iostream>
+
+1603484558 source:c:\users\johne\onedrive\desktop\c++\laab77777777777\src\pair.cpp
+
+1603532126 source:c:\users\johne\onedrive\desktop\c++\template method\main.cpp
+	<iostream>
+	"pair.h"
+
+1603531758 c:\users\johne\onedrive\desktop\c++\template method\include\pair.h
+	<iostream>
+
+1603484558 source:c:\users\johne\onedrive\desktop\c++\template method\src\pair.cpp
+

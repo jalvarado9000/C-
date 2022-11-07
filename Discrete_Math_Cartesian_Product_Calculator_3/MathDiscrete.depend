@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576336781 source:c:\users\johne\desktop\c++\mathdiscrete\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+

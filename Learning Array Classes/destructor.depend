@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1569727300 source:c:\users\johne\desktop\c++\destructor\main.cpp
+	<iostream>
+	"inventoryitem.h"
+	<string>
+	<iomanip>
+
+1569718904 c:\users\johne\desktop\c++\destructor\include\inventoryitem.h
+	<string>
+	<iostream>
+
+1569718904 source:c:\users\johne\desktop\c++\destructor\src\inventoryitem.cpp
+	"inventoryitem.h"
+	<string>
+	<iostream>
+
+1569718499 source:c:\users\johne\desktop\c++\destructor\src\kij.cpp
+	"kij.h"
+
+1569718498 c:\users\johne\desktop\c++\destructor\include\kij.h
+
+1569711704 source:c:\users\johne\onedrive\desktop\c++\destructor\src\inventoryitem.cpp
+	"inventoryitem.h"
+	<string>
+	<iostream>
+
+1569711704 c:\users\johne\onedrive\desktop\c++\destructor\include\inventoryitem.h
+	<string>
+	<iostream>
+
+1569711299 source:c:\users\johne\onedrive\desktop\c++\destructor\src\kij.cpp
+	"kij.h"
+
+1569711298 c:\users\johne\onedrive\desktop\c++\destructor\include\kij.h
+
+1569759138 source:c:\users\johne\onedrive\desktop\c++\destructor\main.cpp
+	<iostream>
+	<iomanip>
+	"InventoryItem.h"
+

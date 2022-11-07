@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1600535857 source:c:\users\johne\desktop\c++\8282\src\altmoney.cpp
+	"altmoney.h"
+	<iostream>
+	<cstdlib>
+
+1600498671 c:\users\johne\desktop\c++\8282\include\altmoney.h
+	<iostream>
+	<cstdlib>
+
+1600498797 source:c:\users\johne\desktop\c++\8282\main.cpp
+	<iostream>
+	<cstdlib>
+	"altmoney.h"
+
+1600495197 source:c:\users\johne\onedrive\desktop\c++\8282\main.cpp
+	<iostream>
+	<cstdlib>
+	"altmoney.h"
+
+1600537279 c:\users\johne\onedrive\desktop\c++\8282\include\altmoney.h
+	<iostream>
+	<cstdlib>
+

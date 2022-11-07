@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586417378 source:c:\users\johne\desktop\c++\anton and polyhedrons\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1604322789 source:c:\users\johne\desktop\c++\lab_single_llinked_list\src\intsllist.cpp
+
+1604322731 source:c:\users\johne\desktop\c++\lab_single_llinked_list\main.cpp
+	"IntSLList.h"
+	"intsllnode.h"
+
+1604323408 c:\users\johne\desktop\c++\lab_single_llinked_list\include\intsllist.h
+	"IntSLLNode.h"
+
+1604322867 c:\users\johne\desktop\c++\lab_single_llinked_list\include\intsllnode.h
+	"IntSLList.h"
+	<iostream>
+
+1604322731 source:c:\users\johne\onedrive\desktop\c++\lab_single_llinked_list\main.cpp
+	"IntSLList.h"
+	"intsllnode.h"
+

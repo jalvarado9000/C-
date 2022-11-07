@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583692160 source:c:\users\johne\desktop\c++\intd\main.cpp
+	<iostream>
+
+1583684960 source:c:\users\johne\onedrive\desktop\c++\intd\main.cpp
+	<iostream>
+
+1583684978 source:c:\users\johne\onedrive\desktop\c++\intd\src\try.cpp
+	"try.h"
+
+1583684971 c:\users\johne\onedrive\desktop\c++\intd\include\try.h
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1607449311 source:c:\users\johne\desktop\c++\usingbstree\src\bstnode.cpp
+
+1607449278 source:c:\users\johne\desktop\c++\usingbstree\src\bstree.cpp
+
+1607449386 source:c:\users\johne\desktop\c++\usingbstree\main.cpp
+	"BSTree.h"
+
+1607449766 c:\users\johne\desktop\c++\usingbstree\include\bstree.h
+	"BSTNode.h"
+
+1607449351 c:\users\johne\desktop\c++\usingbstree\include\bstnode.h
+	<iostream>
+
+1607449311 source:c:\users\johne\onedrive\desktop\c++\usingbstree\src\bstnode.cpp
+
+1607449278 source:c:\users\johne\onedrive\desktop\c++\usingbstree\src\bstree.cpp
+

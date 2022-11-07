@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1604251358 source:c:\users\johne\desktop\c++\singlelinkedlist\src\intsllnode.cpp
+
+1604251371 source:c:\users\johne\desktop\c++\singlelinkedlist\src\intsllist.cpp
+
+1604324500 source:c:\users\johne\desktop\c++\singlelinkedlist\main.cpp
+	"IntSLList.h"
+	"intsllnode.h"
+
+1604324821 c:\users\johne\desktop\c++\singlelinkedlist\include\intsllist.h
+	"IntSLLNode.h"
+
+1604324333 c:\users\johne\desktop\c++\singlelinkedlist\include\intsllnode.h
+	"IntSLList.h"
+	<iostream>
+
+1604324500 source:c:\users\johne\onedrive\desktop\c++\singlelinkedlist\main.cpp
+	"IntSLList.h"
+	"intsllnode.h"
+
+1604324821 c:\users\johne\onedrive\desktop\c++\singlelinkedlist\include\intsllist.h
+	"IntSLLNode.h"
+
+1604324333 c:\users\johne\onedrive\desktop\c++\singlelinkedlist\include\intsllnode.h
+	"IntSLList.h"
+	<iostream>
+
+1604251371 source:c:\users\johne\onedrive\desktop\c++\singlelinkedlist\src\intsllist.cpp
+
+1604251358 source:c:\users\johne\onedrive\desktop\c++\singlelinkedlist\src\intsllnode.cpp
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1583551024 source:c:\users\johne\desktop\c++\ex12.2\main.cpp
+	<iostream>
+	"student.h"
+
+1583551042 c:\users\johne\desktop\c++\ex12.2\include\student.h
+	<iostream>
+
+1583503224 source:c:\users\johne\desktop\c++\ex12.2\src\student.cpp
+	"student.h"
+	<iostream>
+
+1583551120 source:c:\users\johne\onedrive\desktop\c++\ex12.2\src\student.cpp
+	"student.h"
+	<iostream>
+
+1583551042 c:\users\johne\onedrive\desktop\c++\ex12.2\include\student.h
+	<iostream>
+
+1583551388 source:c:\users\johne\onedrive\desktop\c++\ex12.2\main.cpp
+	<iostream>
+	"student.h"
+

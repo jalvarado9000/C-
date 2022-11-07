@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573616039 source:c:\users\johne\desktop\c++\dynamic queue\src\dynintqueue.cpp
+	"dynintqueue.h"
+	<iostream>
+
+1573612374 c:\users\johne\desktop\c++\dynamic queue\include\dynintqueue.h
+
+1573612673 source:c:\users\johne\desktop\c++\dynamic queue\main.cpp
+	<iostream>
+	"dynintqueue.h"
+
+1573612673 source:c:\users\johne\onedrive\desktop\c++\dynamic queue\main.cpp
+	<iostream>
+	"dynintqueue.h"
+
+1573612374 c:\users\johne\onedrive\desktop\c++\dynamic queue\include\dynintqueue.h
+
+1573616081 source:c:\users\johne\onedrive\desktop\c++\dynamic queue\src\dynintqueue.cpp
+	"dynintqueue.h"
+	<iostream>
+

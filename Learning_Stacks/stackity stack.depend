@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573355644 source:c:\users\johne\desktop\c++\stackity stack\main.cpp
+	<iostream>
+	"StackInt.h"
+
+1573411712 c:\users\johne\desktop\c++\stackity stack\include\stackint.h
+
+1573411712 source:c:\users\johne\desktop\c++\stackity stack\src\stackint.cpp
+	"stackint.h"
+	<iostream>
+
+1573411758 source:c:\users\johne\onedrive\desktop\c++\stackity stack\main.cpp
+	<iostream>
+	"StackInt.h"
+
+1573411712 c:\users\johne\onedrive\desktop\c++\stackity stack\include\stackint.h
+
+1573411712 source:c:\users\johne\onedrive\desktop\c++\stackity stack\src\stackint.cpp
+	"stackint.h"
+	<iostream>
+

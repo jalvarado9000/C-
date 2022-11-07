@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1569859868 source:c:\users\johne\desktop\c++\8-3\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1582895566 source:c:\users\johne\desktop\c++\8-3\src\altmoney.cpp
+	"altmoney.h"
+
+1582895721 c:\users\johne\desktop\c++\8-3\include\altmoney.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1582896062 source:c:\users\johne\onedrive\desktop\c++\friend-operandoverloading practice\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"altmoney.h"
+
+1582896061 c:\users\johne\onedrive\desktop\c++\friend-operandoverloading practice\include\altmoney.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+
+1582896053 source:c:\users\johne\onedrive\desktop\c++\friend-operandoverloading practice\src\altmoney.cpp
+	"altmoney.h"
+

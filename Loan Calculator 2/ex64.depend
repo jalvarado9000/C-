@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1581599207 source:c:\users\johne\desktop\c++\ex64\main.cpp
+	<iostream>
+	<cmath>
+	"loan.h"
+
+1581781541 c:\users\johne\desktop\c++\ex64\include\loan.h
+
+1581599292 source:c:\users\johne\desktop\c++\ex64\src\loan.cpp
+	"loan.h"
+	<iostream>
+	<cmath>
+
+1581781541 source:c:\users\johne\onedrive\desktop\c++\ex64\main.cpp
+	<iostream>
+	<cmath>
+	"loan.h"
+
+1581781541 c:\users\johne\onedrive\desktop\c++\ex64\include\loan.h
+

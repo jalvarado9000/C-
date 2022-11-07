@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569709841 source:c:\users\johne\desktop\c++\dlkfjdk\src\rectangle.cpp
+	"rectangle.h"
+	<iostream>
+
+1569699771 c:\users\johne\desktop\c++\dlkfjdk\include\rectangle.h
+
+1569701706 source:c:\users\johne\desktop\c++\dlkfjdk\main.cpp
+	<iostream>
+	"rectangle.h"
+

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1582681056 source:c:\users\johne\desktop\c++\ex12_1\main.cpp
+	<iostream>
+	"area.h"
+
+1582681346 c:\users\johne\desktop\c++\ex12_1\include\area.h
+	<iostream>
+
+1582681346 source:c:\users\johne\desktop\c++\ex12_1\src\area.cpp
+	"area.h"
+
+1582681392 source:c:\users\johne\onedrive\desktop\c++\ex12_1\main.cpp
+	<iostream>
+	"area.h"
+
+1582681346 c:\users\johne\onedrive\desktop\c++\ex12_1\include\area.h
+	<iostream>
+

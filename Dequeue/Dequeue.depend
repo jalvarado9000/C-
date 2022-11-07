@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1573492091 source:c:\users\johne\desktop\c++\dequeue\main.cpp
+	<iostream>
+	"intqueue.h"
+
+1573492122 c:\users\johne\desktop\c++\dequeue\include\intqueue.h
+
+1573492084 source:c:\users\johne\desktop\c++\dequeue\src\intqueue.cpp
+	"intqueue.h"
+	<iostream>
+
+1573492091 source:c:\users\johne\onedrive\desktop\c++\dequeue\main.cpp
+	<iostream>
+	"intqueue.h"
+
+1573492122 c:\users\johne\onedrive\desktop\c++\dequeue\include\intqueue.h
+
+1573492084 source:c:\users\johne\onedrive\desktop\c++\dequeue\src\intqueue.cpp
+	"intqueue.h"
+	<iostream>
+

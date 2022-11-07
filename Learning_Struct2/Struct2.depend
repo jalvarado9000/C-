@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566774227 source:c:\users\johne\desktop\c++\struct2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
+1566767027 source:c:\users\johne\onedrive\desktop\c++\struct2\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+

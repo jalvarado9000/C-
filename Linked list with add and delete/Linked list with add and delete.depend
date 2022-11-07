@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574019496 source:c:\users\johne\desktop\c++\linked list with add and delete\main.cpp
+	<iostream>
+	"listo.h"
+
+1574018484 c:\users\johne\desktop\c++\linked list with add and delete\include\listo.h
+
+1574019482 source:c:\users\johne\desktop\c++\linked list with add and delete\src\listo.cpp
+	"listo.h"
+	<iostream>
+
+1574019496 source:c:\users\johne\onedrive\desktop\c++\linked list with add and delete\main.cpp
+	<iostream>
+	"listo.h"
+
+1574018484 c:\users\johne\onedrive\desktop\c++\linked list with add and delete\include\listo.h
+
+1574019657 source:c:\users\johne\onedrive\desktop\c++\linked list with add and delete\src\listo.cpp
+	"listo.h"
+	<iostream>
+

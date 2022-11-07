@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1602646057 source:c:\users\johne\onedrive\desktop\c++\lab_6666666\src\studenttestscores.cpp
+
+1602652220 source:c:\users\johne\onedrive\desktop\c++\lab_6666666\main.cpp
+	<iostream>
+	"StudentTestScores.h"
+
+1602652149 c:\users\johne\onedrive\desktop\c++\lab_6666666\include\studenttestscores.h
+	<string>
+

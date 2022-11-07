@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1569122926 source:c:\users\johne\desktop\c++\constructor\main.cpp
+	<iostream>
+	"demo.h"
+
+1569123552 c:\users\johne\desktop\c++\constructor\include\demo.h
+
+1569117616 source:c:\users\johne\desktop\c++\constructor\src\demo.cpp
+	"demo.h"
+	<iostream>
+
+1569115726 source:c:\users\johne\onedrive\desktop\c++\constructor\main.cpp
+	<iostream>
+	"demo.h"
+
+1569116352 c:\users\johne\onedrive\desktop\c++\constructor\include\demo.h
+
+1569116375 source:c:\users\johne\onedrive\desktop\c++\constructor\src\demo.cpp
+	"demo.h"
+	<iostream>
+

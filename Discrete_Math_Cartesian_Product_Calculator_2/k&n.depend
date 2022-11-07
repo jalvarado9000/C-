@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1576345645 source:c:\users\johne\desktop\c++\k&n\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+
+1576345645 source:c:\users\johne\onedrive\desktop\c++\k&n\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+
+1576345645 source:c:\users\johne\onedrive\desktop\c++\discrete_math_cartesian_product_calculator_2\main.cpp
+	<algorithm>
+	<chrono>
+	<iostream>
+
